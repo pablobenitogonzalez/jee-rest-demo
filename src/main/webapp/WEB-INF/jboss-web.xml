@@ -1,0 +1,18 @@
+<jboss-web>
+    <!-- -->
+    <security-domain>jee-auth-basic-domain</security-domain>
+
+    <!-- put in standalone.xml
+    <security-domain name="jee-auth-basic-domain">
+         <authentication>
+               <login-module code="Database" flag="required">
+                     <module-option name="dsJndiName" value="java:/datasources/AuthDS"/>
+                     <module-option name="principalsQuery" value="SELECT password FROM login WHERE email = ?"/>
+                     <module-option name="rolesQuery" value="SELECT role, 'Roles' FROM login where email = ?"/>
+                     <module-option name="hashAlgorithm" value="SHA-256"/>
+                     <module-option name="hashEncoding" value="base64"/>
+               </login-module>
+        </authentication>
+    </security-domain>
+    -->
+</jboss-web>

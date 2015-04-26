@@ -1,0 +1,7 @@
+# Versión editada del repo github de wildfly: https://github.com/wildfly/wildfly/blob/master/.gitignore
+
+# ignore Maven generated target folders
+target
+
+# ignore IDEA files
+.idea/workspace.xml

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <category id="1" name="BIOQU&#205;MICA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="2" name="HEMATOLOG&#205;A" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="3" name="INMUNOLOG&#205;A" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="4" name="COAGULACI&#211;N" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="5" name="PRUEBAS GEN&#201;TICAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="6" name="HORMONAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="7" name="INTOLERANCIA Y ALERGIA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="8" name="ORINA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="9" name="SEMEN" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="10" name="HECES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="11" name="EXUDADOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <category id="12" name="C&#193;LCULOS RENALES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0"/>
+  <subcategory id="1" name="PRUEBAS HEP&#193;TICAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="2" name="PRUEBAS RENALES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="3" name="CONTROL LIP&#205;DICO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="4" name="IONES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="5" name="CONTROL DIABETES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="6" name="VITAMINAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="7" name="ESTUDIO F&#201;RRICO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="8" name="PRUEBAS REUM&#193;TICAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="1"/>
+  <subcategory id="9" name="HEMOGRAMA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="2"/>
+  <subcategory id="10" name="VELOCIDAD DE SEDIMENTACI&#211;N" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="2"/>
+  <subcategory id="11" name="ESTUDIO DE ANEMIAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="2"/>
+  <subcategory id="12" name="GRUPO SANGU&#205;NEO Y FACTOR RH" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="2"/>
+  <subcategory id="13" name="ENFERMEDADES AUTOINMUNES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="3"/>
+  <subcategory id="14" name="SEROLOG&#205;A" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="3"/>
+  <subcategory id="15" name="PREOPERATORIO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="4"/>
+  <subcategory id="16" name="CONTROL DE SINTROM" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="4"/>
+  <subcategory id="17" name="PRUEBAS DE PATERNIDAD" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="5"/>
+  <subcategory id="18" name="TEST COMBINADO EN EMBARAZADAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="5"/>
+  <subcategory id="19" name="CARIOTIPOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="5"/>
+  <subcategory id="20" name="DETECCI&#211;N DE ATAXIAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="5"/>
+  <subcategory id="21" name="TIROIDEAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="6"/>
+  <subcategory id="22" name="OV&#193;RICAS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="6"/>
+  <subcategory id="23" name="MARCADORES TUMORALES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="6"/>
+  <subcategory id="24" name="ALIMENTOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="7"/>
+  <subcategory id="25" name="MEDICAMENTOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="7"/>
+  <subcategory id="26" name="ESPECIES VEGETALES Y ANIMALES" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="7"/>
+  <subcategory id="27" name="GLUTEN" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="7"/>
+  <subcategory id="28" name="LACTOSA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="7"/>
+  <subcategory id="29" name="ESTUDIO MICROBIOL&#211;GICO (SISTEM&#193;TICO, UROCULTIVO Y ANTIBIOGRAMA)" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="8"/>
+  <subcategory id="30" name="TOXICOLOG&#205;A" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="8"/>
+  <subcategory id="31" name="DIAGN&#211;STICO DE EMBARAZO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="8"/>
+  <subcategory id="32" name="ESTUDIO DE FERTILIDAD (SEMINOGRAMA)" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="9"/>
+  <subcategory id="33" name="CONTROL POSTVASECTOM&#205;A" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="9"/>
+  <subcategory id="34" name="ESTUDIO MICROBIOL&#211;GICO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="9"/>
+  <subcategory id="35" name="PAR&#193;SITOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="10"/>
+  <subcategory id="36" name="SANGRE OCULTA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="10"/>
+  <subcategory id="37" name="DIGESTI&#211;N DE PRINCIPIOS INMEDIATOS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="10"/>
+  <subcategory id="38" name="COPROCULTIVO Y ANTIBIOGRAMA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="10"/>
+  <subcategory id="39" name="DETECCION DE HELICOBACTER PYLORI" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="10"/>
+  <subcategory id="40" name="ESTUDIO MICROBIOL&#211;GICO" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="11"/>
+  <subcategory id="41" name="CITOLOG&#205;AS" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="11"/>
+  <subcategory id="42" name="ANATOM&#205;A PATOL&#211;GICA" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="11"/>
+  <subcategory id="43" name="ESTUDIO DE COMPOSICI&#211;N" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" category="12"/>
+  <login id="1" email="USER@GMAIL.COM" password="BPiZbadjt6lpsQKO4wB1aerzpjVIbdqyEdUSyFud+Ps=" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" role="USER"/>
+  <login id="2" email="ADMIN@GMAIL.COM" password="jGl25bVBBBW96Qi9Te4V37Fnqchz/Eu4qB9vKrRIqRg=" created="2015-03-30 12:54:49.0" last_update="2015-03-30 12:54:49.0" role="ADMIN"/>
+</dataset>
